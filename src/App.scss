@@ -18,7 +18,7 @@
       opacity: 0.8;
       font-family: bluee;
 
-      @media (max-width:600px){
+      @media (max-width:1024px){
         font-size: 2.4rem;
         margin-top: 12rem; 
       }
@@ -35,7 +35,7 @@
     margin-top: -27rem;
     margin-left: 8rem;
 
-    @media (max-width: 600px) { 
+    @media (max-width: 1024px) { 
         height: 20vh;     
       }
   }
@@ -61,7 +61,7 @@
     margin-top: -140rem;
     margin-left: 23rem;
 
-    @media(max-width:600px){
+    @media(max-width:1024px){
       margin-top: -101rem;
     }
 
@@ -72,7 +72,7 @@
     z-index: 1;
     margin-top: 19.2rem;
 
-    @media(max-width:600px){
+    @media(max-width:1024px){
       margin-top: 20rem;
       margin-right: 6rem;
     }
@@ -100,7 +100,7 @@
         background-color: #550180;
       }
 
-      @media(max-width:600px){
+      @media(max-width:1024px){
         padding: 0.4rem 1rem; 
         width: 15vw; 
         font-size: 0.9rem; 
@@ -108,7 +108,7 @@
       }
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 1024px) {
       gap: 5px;
     }
   }
