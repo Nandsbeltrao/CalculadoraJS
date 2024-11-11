@@ -46,16 +46,6 @@ Copiar código
 npm install
 Inicie o projeto:
 
-bash
-Copiar código
-npm start
-Abra o projeto em seu navegador em http://localhost:3000.
 
-🔗 Links Relacionados
-⚛️ Documentação do React
-🎨 Sass (SCSS) - Documentação
-📸 Imagens
-🖼️ boneca.png: Imagem padrão exibida inicialmente.
-🔒 segredo.png: Imagem alternativa exibida após clicar na imagem inicial.
 🖋️ Licença
 Este projeto foi desenvolvido para fins educacionais. Sinta-se à vontade para explorá-lo, modificá-lo e utilizá-lo em seus próprios projetos.
