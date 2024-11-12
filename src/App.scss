@@ -22,6 +22,13 @@
         font-size: 2.4rem;
         margin-top: 12rem; 
       }
+
+      @media (max-width: 414px) {
+        width: 90vw; /* Reduz a largura */
+        margin-top: 10rem; /* Ajusta a margem superior */
+        font-size: 2.2rem; /* Reduz o tamanho da fonte */
+        padding: 0 1rem; /* Adiciona padding nas laterais */
+    }
     }
 
   }
@@ -38,6 +45,16 @@
     @media (max-width: 600px) { 
         height: 20vh;     
       }
+
+      @media (max-width: 414px) {
+
+            width: 90vw; /* Reduz a largura */
+            height: 15vh; /* Ajusta a altura para telas menores */
+            margin-top: -15rem; /* Diminui a margem superior */
+            margin-left: 0; /* Remove a margem lateral */
+            padding: 0 1rem; /* Adiciona padding lateral para centralizar melhor */
+        
+    }
   }
   
   .segundasessao {
@@ -62,6 +79,10 @@
     margin-left: 23rem;
 
     @media(max-width:600px){
+      margin-top: -101rem;
+    }
+
+    @media(max-width:414px){
       margin-top: -101rem;
     }
 
@@ -106,6 +127,14 @@
         font-size: 0.9rem; 
         radius: 40px; 
       }
+
+      @media (max-width: 414px) {
+        gap: 8px;
+    
+        button {
+          padding: 0.4rem 1.5rem;
+          font-size: 0.9rem;
+        }
     }
 
     @media (max-width: 600px) {
