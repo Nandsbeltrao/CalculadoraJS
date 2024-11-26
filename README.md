@@ -1,6 +1,6 @@
 # 🧮 Calculadora Interativa em React
 
-Este é um projeto de **calculadora interativa** desenvolvido em **React**, com uma funcionalidade adicional que ao clicar no botão com a imagem, os simbolos trocam como se estivessem em um modo  que torna a experiência mais divertida e interativa.
+Este é um projeto de **calculadora interativa** desenvolvido em **React**, com uma funcionalidade adicional que ao clicar no botão com a imagem, os simbolos trocam como se estivessem em um modo de segredo que torna a experiência mais divertida e interativa.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/136fc198-1e99-4d41-afd5-6257cbf4fc73" width="700">
