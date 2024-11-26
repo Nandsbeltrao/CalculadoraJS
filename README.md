@@ -1,6 +1,6 @@
 # 🧮 Calculadora Interativa em React
 
-Este é um projeto de **calculadora interativa** desenvolvido em **React**, com uma funcionalidade adicional que ao clicar no botão com a imagem, os simbolos trocam como se estivessem em um modo de segredo que torna a experiência mais divertida e interativa.
+Este é um projeto de **calculadora interativa** desenvolvido em **React**, com uma funcionalidade adicional que ao clicar no botão com a imagem, os simbolos trocam como se estivessem em um modo de segredo que torna a experiência mais divertida e interativa.A calculadora também é totalmente responsiva, garantindo uma ótima experiência em diferentes tamanhos de tela 📱💻.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/136fc198-1e99-4d41-afd5-6257cbf4fc73" width="700">
@@ -12,6 +12,7 @@ Este é um projeto de **calculadora interativa** desenvolvido em **React**, com 
 - 📜 **JavaScript (ES6)**: Para a lógica de manipulação dos estados e eventos.
 - 🎨 **SCSS**: Para estilização modular e personalizável.
 - 🖥️ **HTML5**: Estrutura do componente principal.
+- 📱 Responsividade: Layout adaptável para diferentes dispositivos e tamanhos de tela.
 
 ## 📁 Estrutura de Arquivos
 
@@ -33,6 +34,8 @@ Este é um projeto de **calculadora interativa** desenvolvido em **React**, com 
 🧹 Limpeza de Valores: O botão "C" permite limpar os campos e o resultado.
 🖼️ Imagem Alternável: A imagem da boneca pode ser alternada entre duas imagens ao ser clicada, tornando a interface mais divertida.
 🔄 Símbolos Alternativos: Os botões de operações exibem símbolos alternativos ("$", "#", "@" e "&") quando a imagem secreta é exibida.
+📱 Responsividade: O design é responsivo, funcionando bem em dispositivos móveis e desktops.
+
 🛠️ Como Executar o Projeto
 Clone este repositório:
 
